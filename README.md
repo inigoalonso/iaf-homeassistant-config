@@ -1,2 +1,3 @@
 # iaf-homeassistant-config
-Homa Assistant Configuration
+[Home Assistant](http://homeassistant.io/ "Home Assistant's Homepage") Configuration files.
+
